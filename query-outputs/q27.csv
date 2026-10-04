@@ -1,0 +1,6 @@
+"stage_name","number_of_batches","plants_at_stage"
+"Propagation",0,NULL
+"Seedling",0,NULL
+"Young Plant",0,NULL
+"Mature Plant",3,1040
+"Saleable",9,3365

@@ -1,0 +1,10 @@
+"batch_code","species","saleable_quantity","quantity_sold","remaining_stock"
+"MAN-2026-001","Mango",210,180,30
+"HIB-2026-001","Hibiscus",325,275,50
+"BAS-2026-001","Basil",610,550,60
+"SNA-2026-001","Snake Plant",250,115,135
+"MON-2026-001","Money Plant",530,365,165
+"ROS-2026-001","Rose",290,122,168
+"ALV-2026-001","Aloe Vera",420,225,195
+"ALV-2026-002","Aloe Vera",350,50,300
+"JAS-2026-001","Jasmine",380,75,305

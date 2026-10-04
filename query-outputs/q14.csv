@@ -1,0 +1,58 @@
+"batch_code","species","stage_name","entered_at","exited_at","quantity_at_entry","quantity_at_exit"
+"ALV-2026-001","Aloe Vera","Propagation","2026-01-05","2026-01-15",500,480
+"ALV-2026-001","Aloe Vera","Seedling","2026-01-15","2026-02-10",480,450
+"ALV-2026-001","Aloe Vera","Young Plant","2026-02-10","2026-03-25",450,430
+"ALV-2026-001","Aloe Vera","Mature Plant","2026-03-25","2026-05-20",430,420
+"ALV-2026-001","Aloe Vera","Saleable","2026-05-20",NULL,420,NULL
+"ALV-2026-002","Aloe Vera","Propagation","2026-03-10","2026-03-20",400,390
+"ALV-2026-002","Aloe Vera","Seedling","2026-03-20","2026-04-15",390,375
+"ALV-2026-002","Aloe Vera","Young Plant","2026-04-15","2026-06-01",375,360
+"ALV-2026-002","Aloe Vera","Mature Plant","2026-06-01","2026-08-01",360,350
+"ALV-2026-002","Aloe Vera","Saleable","2026-08-01",NULL,350,NULL
+"ROS-2026-001","Rose","Propagation","2026-01-12","2026-01-22",350,340
+"ROS-2026-001","Rose","Seedling","2026-01-22","2026-02-20",340,320
+"ROS-2026-001","Rose","Young Plant","2026-02-20","2026-04-10",320,300
+"ROS-2026-001","Rose","Mature Plant","2026-04-10","2026-06-20",300,290
+"ROS-2026-001","Rose","Saleable","2026-06-20",NULL,290,NULL
+"ROS-2026-002","Rose","Propagation","2026-04-02","2026-04-12",300,295
+"ROS-2026-002","Rose","Seedling","2026-04-12","2026-05-10",295,280
+"ROS-2026-002","Rose","Young Plant","2026-05-10","2026-07-15",280,265
+"ROS-2026-002","Rose","Mature Plant","2026-07-15",NULL,265,NULL
+"JAS-2026-001","Jasmine","Propagation","2026-02-01","2026-02-12",450,440
+"JAS-2026-001","Jasmine","Seedling","2026-02-12","2026-03-15",440,420
+"JAS-2026-001","Jasmine","Young Plant","2026-03-15","2026-05-20",420,395
+"JAS-2026-001","Jasmine","Mature Plant","2026-05-20","2026-08-15",395,380
+"JAS-2026-001","Jasmine","Saleable","2026-08-15",NULL,380,NULL
+"MON-2026-001","Money Plant","Propagation","2026-01-20","2026-01-30",600,590
+"MON-2026-001","Money Plant","Seedling","2026-01-30","2026-02-25",590,570
+"MON-2026-001","Money Plant","Young Plant","2026-02-25","2026-04-25",570,550
+"MON-2026-001","Money Plant","Mature Plant","2026-04-25","2026-07-01",550,530
+"MON-2026-001","Money Plant","Saleable","2026-07-01",NULL,530,NULL
+"MON-2026-002","Money Plant","Propagation","2026-05-05","2026-05-15",500,495
+"MON-2026-002","Money Plant","Seedling","2026-05-15","2026-06-15",495,480
+"MON-2026-002","Money Plant","Young Plant","2026-06-15","2026-08-20",480,465
+"MON-2026-002","Money Plant","Mature Plant","2026-08-20",NULL,465,NULL
+"SNA-2026-001","Snake Plant","Propagation","2026-02-15","2026-02-25",300,290
+"SNA-2026-001","Snake Plant","Seedling","2026-02-25","2026-03-30",290,275
+"SNA-2026-001","Snake Plant","Young Plant","2026-03-30","2026-06-10",275,260
+"SNA-2026-001","Snake Plant","Mature Plant","2026-06-10","2026-08-10",260,250
+"SNA-2026-001","Snake Plant","Saleable","2026-08-10",NULL,250,NULL
+"BAS-2026-001","Basil","Propagation","2026-03-01","2026-03-10",700,680
+"BAS-2026-001","Basil","Seedling","2026-03-10","2026-04-01",680,650
+"BAS-2026-001","Basil","Young Plant","2026-04-01","2026-05-15",650,625
+"BAS-2026-001","Basil","Mature Plant","2026-05-15","2026-07-10",625,610
+"BAS-2026-001","Basil","Saleable","2026-07-10",NULL,610,NULL
+"HIB-2026-001","Hibiscus","Propagation","2026-01-25","2026-02-05",400,385
+"HIB-2026-001","Hibiscus","Seedling","2026-02-05","2026-03-05",385,360
+"HIB-2026-001","Hibiscus","Young Plant","2026-03-05","2026-05-01",360,340
+"HIB-2026-001","Hibiscus","Mature Plant","2026-05-01","2026-07-20",340,325
+"HIB-2026-001","Hibiscus","Saleable","2026-07-20",NULL,325,NULL
+"LAV-2026-001","Lavender","Propagation","2026-03-15","2026-03-25",350,340
+"LAV-2026-001","Lavender","Seedling","2026-03-25","2026-04-25",340,325
+"LAV-2026-001","Lavender","Young Plant","2026-04-25","2026-06-30",325,310
+"LAV-2026-001","Lavender","Mature Plant","2026-06-30",NULL,310,NULL
+"MAN-2026-001","Mango","Propagation","2026-02-10","2026-02-20",250,245
+"MAN-2026-001","Mango","Seedling","2026-02-20","2026-03-30",245,230
+"MAN-2026-001","Mango","Young Plant","2026-03-30","2026-06-15",230,220
+"MAN-2026-001","Mango","Mature Plant","2026-06-15","2026-09-01",220,210
+"MAN-2026-001","Mango","Saleable","2026-09-01",NULL,210,NULL

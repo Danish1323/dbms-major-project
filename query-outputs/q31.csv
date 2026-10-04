@@ -1,0 +1,13 @@
+"batch_code","species","current_stage","current_quantity"
+"ALV-2026-001","Aloe Vera","Saleable",420
+"ALV-2026-002","Aloe Vera","Saleable",350
+"ROS-2026-001","Rose","Saleable",290
+"ROS-2026-002","Rose","Mature Plant",265
+"JAS-2026-001","Jasmine","Saleable",380
+"MON-2026-001","Money Plant","Saleable",530
+"MON-2026-002","Money Plant","Mature Plant",465
+"SNA-2026-001","Snake Plant","Saleable",250
+"BAS-2026-001","Basil","Saleable",610
+"HIB-2026-001","Hibiscus","Saleable",325
+"LAV-2026-001","Lavender","Mature Plant",310
+"MAN-2026-001","Mango","Saleable",210

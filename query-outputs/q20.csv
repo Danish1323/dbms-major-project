@@ -1,0 +1,14 @@
+"batch_code","species","stage_name","entered_at","days_in_stage","max_days"
+"ALV-2026-001","Aloe Vera","Saleable","2026-05-20",133,120
+"LAV-2026-001","Lavender","Mature Plant","2026-06-30",92,90
+"MAN-2026-001","Mango","Young Plant","2026-03-30",77,60
+"SNA-2026-001","Snake Plant","Young Plant","2026-03-30",72,60
+"MON-2026-002","Money Plant","Young Plant","2026-06-15",66,60
+"JAS-2026-001","Jasmine","Young Plant","2026-03-15",66,60
+"LAV-2026-001","Lavender","Young Plant","2026-04-25",66,60
+"ROS-2026-002","Rose","Young Plant","2026-05-10",66,60
+"MAN-2026-001","Mango","Seedling","2026-02-20",38,30
+"SNA-2026-001","Snake Plant","Seedling","2026-02-25",33,30
+"LAV-2026-001","Lavender","Seedling","2026-03-25",31,30
+"JAS-2026-001","Jasmine","Seedling","2026-02-12",31,30
+"MON-2026-002","Money Plant","Seedling","2026-05-15",31,30

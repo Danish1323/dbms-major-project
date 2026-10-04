@@ -1,0 +1,28 @@
+"sale_id","sale_date","sale_type","customer_name","batch_code","species","quantity","unit_price","line_revenue"
+6,"2026-06-22","RETAIL","Sneha Patil","ROS-2026-001","Rose",12,160.00,1920.00
+1,"2026-06-25","RETAIL","Rahul Mehta","ALV-2026-001","Aloe Vera",25,80.00,2000.00
+1,"2026-06-25","RETAIL","Rahul Mehta","ROS-2026-001","Rose",10,150.00,1500.00
+7,"2026-07-04","RETAIL","Rohan Desai","ALV-2026-001","Aloe Vera",30,85.00,2550.00
+7,"2026-07-04","RETAIL","Rohan Desai","ALV-2026-001","Aloe Vera",20,125.00,2500.00
+2,"2026-07-05","RETAIL","Priya Shah","MON-2026-001","Money Plant",15,120.00,1800.00
+3,"2026-07-25","BULK","GreenLeaf Landscaping","BAS-2026-001","Basil",200,35.00,7000.00
+3,"2026-07-25","BULK","GreenLeaf Landscaping","HIB-2026-001","Hibiscus",100,90.00,9000.00
+10,"2026-08-02","BULK","NatureScape Developers","MON-2026-001","Money Plant",200,95.00,19000.00
+10,"2026-08-02","BULK","NatureScape Developers","HIB-2026-001","Hibiscus",100,85.00,8500.00
+11,"2026-08-10","RETAIL","Kabir Nair","ALV-2026-002","Aloe Vera",30,90.00,2700.00
+12,"2026-08-18","RETAIL","Ishita Kulkarni","JAS-2026-001","Jasmine",25,130.00,3250.00
+12,"2026-08-18","RETAIL","Ishita Kulkarni","SNA-2026-001","Snake Plant",15,160.00,2400.00
+4,"2026-08-20","RETAIL","Aarav Joshi","JAS-2026-001","Jasmine",10,140.00,1400.00
+4,"2026-08-20","RETAIL","Aarav Joshi","ALV-2026-002","Aloe Vera",20,85.00,1700.00
+5,"2026-08-20","BULK","Urban Gardens Pvt Ltd","MON-2026-001","Money Plant",150,100.00,15000.00
+5,"2026-08-20","BULK","Urban Gardens Pvt Ltd","SNA-2026-001","Snake Plant",80,110.00,8800.00
+9,"2026-08-20","RETAIL","Ananya Rao","JAS-2026-001","Jasmine",25,145.00,3625.00
+8,"2026-09-05","BULK","Mumbai Garden Supplies","MAN-2026-001","Mango",80,180.00,14400.00
+8,"2026-09-05","BULK","Mumbai Garden Supplies","BAS-2026-001","Basil",250,32.00,8000.00
+13,"2026-09-05","BULK","Green City Projects","BAS-2026-001","Basil",100,30.00,3000.00
+13,"2026-09-05","BULK","Green City Projects","MAN-2026-001","Mango",100,175.00,17500.00
+14,"2026-09-05","RETAIL","Aditya Shah","SNA-2026-001","Snake Plant",20,115.00,2300.00
+14,"2026-09-05","RETAIL","Aditya Shah","JAS-2026-001","Jasmine",15,150.00,2250.00
+15,"2026-09-12","BULK","Urban Flora Enterprises","ALV-2026-001","Aloe Vera",150,75.00,11250.00
+15,"2026-09-12","BULK","Urban Flora Enterprises","ROS-2026-001","Rose",100,135.00,13500.00
+15,"2026-09-12","BULK","Urban Flora Enterprises","HIB-2026-001","Hibiscus",75,80.00,6000.00

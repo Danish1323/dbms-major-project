@@ -1,0 +1,13 @@
+"batch_code","species","initial_quantity","surviving_quantity","survival_rate_percent"
+"MON-2026-002","Money Plant",500,465,93.00
+"LAV-2026-001","Lavender",350,310,88.57
+"ROS-2026-002","Rose",300,265,88.33
+"MON-2026-001","Money Plant",600,530,88.33
+"ALV-2026-002","Aloe Vera",400,350,87.50
+"BAS-2026-001","Basil",700,610,87.14
+"JAS-2026-001","Jasmine",450,380,84.44
+"MAN-2026-001","Mango",250,210,84.00
+"ALV-2026-001","Aloe Vera",500,420,84.00
+"SNA-2026-001","Snake Plant",300,250,83.33
+"ROS-2026-001","Rose",350,290,82.86
+"HIB-2026-001","Hibiscus",400,325,81.25
